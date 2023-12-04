@@ -1,0 +1,8 @@
+# Virtual Environment
+venv/
+
+# Ignore the SQLite database
+*.sqlite3
+
+# Ignore VSCode settings
+.vscode/
