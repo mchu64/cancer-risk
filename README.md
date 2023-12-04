@@ -1,5 +1,3 @@
-# My First Django Project
-
 This is a Django project created for Cancer awareness.
 
 ## Setup
